@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\4_CardToString\bin\Debug\E04-CardToString.exe.config
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\4_CardToString\bin\Debug\E04-CardToString.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\4_CardToString\bin\Debug\E04-CardToString.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\4_CardToString\obj\Debug\4_CardToString.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\4_CardToString\obj\Debug\E04-CardToString.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\4_CardToString\obj\Debug\E04-CardToString.pdb

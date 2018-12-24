@@ -1,0 +1,7 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\6_CustomEnumAttribute\bin\Debug\E06-CustomEnumAttribute.exe.config
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\6_CustomEnumAttribute\bin\Debug\E06-CustomEnumAttribute.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\6_CustomEnumAttribute\bin\Debug\E06-CustomEnumAttribute.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\6_CustomEnumAttribute\obj\Debug\6_CustomEnumAttribute.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\6_CustomEnumAttribute\obj\Debug\6_CustomEnumAttribute.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\6_CustomEnumAttribute\obj\Debug\E06-CustomEnumAttribute.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\6_CustomEnumAttribute\obj\Debug\E06-CustomEnumAttribute.pdb

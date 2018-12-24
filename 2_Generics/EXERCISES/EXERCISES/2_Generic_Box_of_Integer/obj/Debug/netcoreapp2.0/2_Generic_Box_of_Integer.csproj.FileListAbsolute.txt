@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\bin\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\2_Generic_Box_of_Integer\obj\Debug\netcoreapp2.0\2_Generic_Box_of_Integer.pdb

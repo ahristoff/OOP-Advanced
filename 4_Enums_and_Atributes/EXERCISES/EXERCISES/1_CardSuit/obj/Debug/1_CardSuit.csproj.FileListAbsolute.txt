@@ -1,0 +1,7 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\1_CardSuit\bin\Debug\E01-CardSuit.exe.config
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\1_CardSuit\bin\Debug\E01-CardSuit.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\1_CardSuit\bin\Debug\E01-CardSuit.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\1_CardSuit\obj\Debug\1_CardSuit.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\1_CardSuit\obj\Debug\1_CardSuit.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\1_CardSuit\obj\Debug\E01-CardSuit.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\1_CardSuit\obj\Debug\E01-CardSuit.pdb

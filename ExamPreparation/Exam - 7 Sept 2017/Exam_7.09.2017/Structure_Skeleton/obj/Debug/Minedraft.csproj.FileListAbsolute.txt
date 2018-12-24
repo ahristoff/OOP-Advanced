@@ -1,0 +1,14 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.exe.config
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.exe
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\Structure_Skeleton\bin\Debug\Minedraft.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.exe
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\Structure_Skeleton\obj\Debug\Minedraft.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\ExamPreparation\Exam - 7 Sept 2017\Exam_7.09.2017\Structure_Skeleton\bin\Debug\Minedraft.exe.config
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\ExamPreparation\Exam - 7 Sept 2017\Exam_7.09.2017\Structure_Skeleton\bin\Debug\Minedraft.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\ExamPreparation\Exam - 7 Sept 2017\Exam_7.09.2017\Structure_Skeleton\bin\Debug\Minedraft.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\ExamPreparation\Exam - 7 Sept 2017\Exam_7.09.2017\Structure_Skeleton\obj\Debug\Minedraft.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\ExamPreparation\Exam - 7 Sept 2017\Exam_7.09.2017\Structure_Skeleton\obj\Debug\Minedraft.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\ExamPreparation\Exam - 7 Sept 2017\Exam_7.09.2017\Structure_Skeleton\obj\Debug\Minedraft.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\ExamPreparation\Exam - 7 Sept 2017\Exam_7.09.2017\Structure_Skeleton\obj\Debug\Minedraft.pdb

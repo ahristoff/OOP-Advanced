@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\bin\Debug\netcoreapp2.0\910_Tuple.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\bin\Debug\netcoreapp2.0\910_Tuple.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\bin\Debug\netcoreapp2.0\910_Tuple.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\bin\Debug\netcoreapp2.0\910_Tuple.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\bin\Debug\netcoreapp2.0\910_Tuple.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\obj\Debug\netcoreapp2.0\910_Tuple.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\obj\Debug\netcoreapp2.0\910_Tuple.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\obj\Debug\netcoreapp2.0\910_Tuple.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\obj\Debug\netcoreapp2.0\910_Tuple.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\obj\Debug\netcoreapp2.0\910_Tuple.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\10_Tuple\obj\Debug\netcoreapp2.0\910_Tuple.pdb

@@ -1,0 +1,7 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\8_CardGame\bin\Debug\E08-CardGame.exe.config
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\8_CardGame\bin\Debug\E08-CardGame.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\8_CardGame\bin\Debug\E08-CardGame.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\8_CardGame\obj\Debug\8_CardGame.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\8_CardGame\obj\Debug\E08-CardGame.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\8_CardGame\obj\Debug\E08-CardGame.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\8_CardGame\obj\Debug\8_CardGame.csprojResolveAssemblyReference.cache

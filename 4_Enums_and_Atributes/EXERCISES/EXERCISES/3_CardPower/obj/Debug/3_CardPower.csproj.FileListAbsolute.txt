@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\3_CardPower\bin\Debug\E03-CardPower.exe.config
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\3_CardPower\bin\Debug\E03-CardPower.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\3_CardPower\bin\Debug\E03-CardPower.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\3_CardPower\obj\Debug\3_CardPower.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\3_CardPower\obj\Debug\E03-CardPower.exe
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\4_Enums_and_Atributes\EXERCISES\EXERCISES\3_CardPower\obj\Debug\E03-CardPower.pdb

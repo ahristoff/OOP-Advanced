@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\bin\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\4_Generic_Swap_Method_Integers\obj\Debug\netcoreapp2.0\4_Generic_Swap_Method_Integers.pdb

@@ -1,0 +1,20 @@
+﻿using System;
+
+namespace _1_CardSuit
+{
+    public class Program
+    {
+        public static void Main()
+        {
+            var enumName = Console.ReadLine();
+            var cards = Enum.GetValues(typeof(CardSuites));
+
+            Console.WriteLine($"{enumName}:");
+
+            foreach (var card in cards)
+            {
+                Console.WriteLine($"Ordinal value: {(int)card}; Name value: {card}");
+            }
+        }
+    }
+}

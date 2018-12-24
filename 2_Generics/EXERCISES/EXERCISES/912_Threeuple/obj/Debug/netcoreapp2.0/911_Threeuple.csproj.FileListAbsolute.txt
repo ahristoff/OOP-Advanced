@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\bin\Debug\netcoreapp2.0\911_Threeuple.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\bin\Debug\netcoreapp2.0\911_Threeuple.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\bin\Debug\netcoreapp2.0\911_Threeuple.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\bin\Debug\netcoreapp2.0\911_Threeuple.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\bin\Debug\netcoreapp2.0\911_Threeuple.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\obj\Debug\netcoreapp2.0\911_Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\obj\Debug\netcoreapp2.0\911_Threeuple.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\obj\Debug\netcoreapp2.0\911_Threeuple.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\obj\Debug\netcoreapp2.0\911_Threeuple.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\911_Threeuple\obj\Debug\netcoreapp2.0\911_Threeuple.pdb

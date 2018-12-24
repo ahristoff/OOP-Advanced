@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Lab\01. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb

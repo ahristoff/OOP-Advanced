@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\bin\Debug\netcoreapp2.0\LastArmy.Tests.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\bin\Debug\netcoreapp2.0\LastArmy.Tests.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\obj\Debug\netcoreapp2.0\LastArmy.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\obj\Debug\netcoreapp2.0\LastArmy.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\obj\Debug\netcoreapp2.0\LastArmy.Tests.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\obj\Debug\netcoreapp2.0\LastArmy.Tests.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\bin\Debug\netcoreapp2.0\LastArmy.Tests.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\bin\Debug\netcoreapp2.0\Last Army.exe
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\bin\Debug\netcoreapp2.0\Last Army.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\bin\Debug\netcoreapp2.0\Last Army.exe.config
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\obj\Debug\netcoreapp2.0\LastArmy.Tests.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 20 August 2017\Prazen_skelet\LastArmy.Tests\obj\Debug\netcoreapp2.0\LastArmy.Tests.pdb

@@ -1,0 +1,69 @@
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfoInputs.cache
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfo.cs
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.deps.json
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.json
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.dev.json
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\1_Solid\Exercise\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\data\logFile.txt
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\data\logFile.txt
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\bin\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger_1\Logger\obj\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\bin\Debug\netcoreapp2.0\Logger.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\bin\Debug\netcoreapp2.0\Logger.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\bin\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\bin\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\obj\Debug\netcoreapp2.0\Logger.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\obj\Debug\netcoreapp2.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\obj\Debug\netcoreapp2.0\Logger.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\obj\Debug\netcoreapp2.0\Logger.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\obj\Debug\netcoreapp2.0\Logger.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\1_Solid\EXERCISES\EXERCISES\Logger\bin\Debug\netcoreapp2.0\data\logFile.txt

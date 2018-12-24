@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\bin\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\bin\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\bin\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\bin\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\bin\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\obj\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\obj\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\obj\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\obj\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\obj\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\6_Generic_Count_Method_Doubles\obj\Debug\netcoreapp2.0\6_Generic_Count_Method_Doubles.pdb

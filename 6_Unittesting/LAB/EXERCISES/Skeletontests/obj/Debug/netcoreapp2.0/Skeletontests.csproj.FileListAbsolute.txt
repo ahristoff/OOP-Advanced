@@ -1,0 +1,35 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Lab\Lab s Interfaces\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\Skeletontests.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.csproj.CopyComplete
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\3_OOP Advanced\6_Unittesting\LAB\EXERCISES\Skeletontests\obj\Debug\netcoreapp2.0\Skeletontests.pdb

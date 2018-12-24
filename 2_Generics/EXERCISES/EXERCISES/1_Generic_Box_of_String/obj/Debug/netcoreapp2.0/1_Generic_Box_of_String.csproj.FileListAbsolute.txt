@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\bin\Debug\netcoreapp2.0\1_Generic_Box_of_String.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\bin\Debug\netcoreapp2.0\1_Generic_Box_of_String.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\bin\Debug\netcoreapp2.0\1_Generic_Box_of_String.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\bin\Debug\netcoreapp2.0\1_Generic_Box_of_String.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\bin\Debug\netcoreapp2.0\1_Generic_Box_of_String.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\obj\Debug\netcoreapp2.0\1_Generic_Box_of_String.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\obj\Debug\netcoreapp2.0\1_Generic_Box_of_String.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\obj\Debug\netcoreapp2.0\1_Generic_Box_of_String.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\obj\Debug\netcoreapp2.0\1_Generic_Box_of_String.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\obj\Debug\netcoreapp2.0\1_Generic_Box_of_String.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\2_Generics\Exercise\Exercise\1_Generic_Box_of_String\obj\Debug\netcoreapp2.0\1_Generic_Box_of_String.csprojResolveAssemblyReference.cache

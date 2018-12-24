@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\bin\Debug\netcoreapp2.0\UnitTestsJudje.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\bin\Debug\netcoreapp2.0\UnitTestsJudje.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\obj\Debug\netcoreapp2.0\UnitTestsJudje.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\obj\Debug\netcoreapp2.0\UnitTestsJudje.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\obj\Debug\netcoreapp2.0\UnitTestsJudje.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\obj\Debug\netcoreapp2.0\UnitTestsJudje.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\bin\Debug\netcoreapp2.0\UnitTestsJudje.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\bin\Debug\netcoreapp2.0\Minedraft.exe
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\bin\Debug\netcoreapp2.0\Minedraft.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\bin\Debug\netcoreapp2.0\Minedraft.exe.config
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\obj\Debug\netcoreapp2.0\UnitTestsJudje.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\WWExamPreparation\Exam - 7 Sept 2017\Presentation\Structure_Skeleton\UnitTestsJudje\obj\Debug\netcoreapp2.0\UnitTestsJudje.pdb

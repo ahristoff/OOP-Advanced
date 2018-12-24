@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\bin\Debug\netcoreapp2.0\Database.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\bin\Debug\netcoreapp2.0\Database.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\bin\Debug\netcoreapp2.0\Database.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\bin\Debug\netcoreapp2.0\Database.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\bin\Debug\netcoreapp2.0\Database.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\obj\Debug\netcoreapp2.0\Database.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\obj\Debug\netcoreapp2.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\obj\Debug\netcoreapp2.0\Database.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\obj\Debug\netcoreapp2.0\Database.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\obj\Debug\netcoreapp2.0\Database.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\3_OOP Advanced\5_Unittesting\Exercises\DataBaseIntegers\Database\obj\Debug\netcoreapp2.0\Database.pdb
